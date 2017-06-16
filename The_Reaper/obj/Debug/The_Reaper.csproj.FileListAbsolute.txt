@@ -1,0 +1,7 @@
+c:\users\victor\documents\visual studio 2015\Projects\The_Reaper\The_Reaper\bin\Debug\V.The_Reaper_v01.dll
+c:\users\victor\documents\visual studio 2015\Projects\The_Reaper\The_Reaper\bin\Debug\V.The_Reaper_v01.pdb
+c:\users\victor\documents\visual studio 2015\Projects\The_Reaper\The_Reaper\bin\Debug\robocode.dll
+c:\users\victor\documents\visual studio 2015\Projects\The_Reaper\The_Reaper\bin\Debug\robocode.xml
+c:\users\victor\documents\visual studio 2015\Projects\The_Reaper\The_Reaper\obj\Debug\The_Reaper.csprojResolveAssemblyReference.cache
+c:\users\victor\documents\visual studio 2015\Projects\The_Reaper\The_Reaper\obj\Debug\V.The_Reaper_v01.dll
+c:\users\victor\documents\visual studio 2015\Projects\The_Reaper\The_Reaper\obj\Debug\V.The_Reaper_v01.pdb
